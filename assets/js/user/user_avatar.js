@@ -42,7 +42,7 @@ $(function(){
 
     $.ajax({
       method:"post",
-      url:"",
+      url:"/my/update/avatar",
       data:{
         avatar:dataURL
       },
